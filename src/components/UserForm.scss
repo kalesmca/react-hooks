@@ -1,0 +1,28 @@
+.user-form-container{
+    .carrier-input-container{
+        margin:10px;
+        
+    }
+    .communication-container{
+        margin:10px;
+    }
+    .preview-container{
+        margin: 10px 10px 10px 10px;
+    }
+}
+
+.row{
+    clear: both;
+    .column{
+        width: 50%;
+        float: left;
+        label{
+            display: block;
+            margin:5px;
+        }
+    }
+}
+
+input{
+    margin:5px;
+}
